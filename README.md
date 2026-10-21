@@ -50,16 +50,6 @@ EHSAAN COLOUR is an independently developed personal project. Contributions and 
 
 ---
 
-## 💜 Explore More EHSAAN Projects
-
-- [EHSAAN PLAY](https://ehsaanplay.ai.studio/) — Your personal movie and series library.
-- [EHSAAN FLOW](https://ehsaanflow.ai.studio/) — Explore the project.
-- [EHSAAN QR](https://ehsaanqr.ai.studio/) — Explore the project.
-- [EHSAAN COMPRESS](https://ehsaancompress.ai.studio/) — Explore the project.
-- [EHSAAN COLOUR](https://ehsaancolour.ai.studio/) — Explore colours and palettes.
-
----
-
 <div align="center">
 
 ## MADE BY EHSAAN ULLAH
